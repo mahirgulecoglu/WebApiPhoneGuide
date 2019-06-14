@@ -1,0 +1,24 @@
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\PhoneGuide.Entity.dll.config
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\PhoneGuide.Entity.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\PhoneGuide.Entity.pdb
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.Entity\obj\Debug\PhoneGuide.Entity.csprojAssemblyReference.cache
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.Entity\obj\Debug\PhoneGuide.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.Entity\obj\Debug\PhoneGuide.Entity.csproj.CopyComplete
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.Entity\obj\Debug\PhoneGuide.Entity.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.Entity\obj\Debug\PhoneGuide.Entity.pdb
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\PhoneGuide.Entity.dll.config
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\PhoneGuide.Entity.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\PhoneGuide.Entity.pdb
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\EntityFramework.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\EntityFramework.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.Entity\obj\Debug\PhoneGuide.Entity.csprojAssemblyReference.cache
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.Entity\obj\Debug\PhoneGuide.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.Entity\obj\Debug\PhoneGuide.Entity.csproj.CopyComplete
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.Entity\obj\Debug\PhoneGuide.Entity.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.Entity\obj\Debug\PhoneGuide.Entity.pdb

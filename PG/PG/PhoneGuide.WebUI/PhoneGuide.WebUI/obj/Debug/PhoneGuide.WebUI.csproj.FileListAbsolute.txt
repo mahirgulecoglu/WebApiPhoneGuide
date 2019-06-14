@@ -1,0 +1,160 @@
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\PhoneGuide.WebUI.dll.config
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\PhoneGuide.WebUI.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\PhoneGuide.WebUI.pdb
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\csc.exe
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\csc.rsp
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\csi.exe
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\csi.rsp
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\vbc.exe
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\PhoneGuide.WebUI.Entity.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\RestSharp.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Razor.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\WebGrease.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\PhoneGuide.WebUI.Entity.pdb
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\RestSharp.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Razor.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\obj\Debug\PhoneGuide.WebUI.csprojAssemblyReference.cache
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\obj\Debug\PhoneGuide.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\obj\Debug\PhoneGuide.WebUI.csproj.CopyComplete
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\obj\Debug\PhoneGuide.WebUI.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI\obj\Debug\PhoneGuide.WebUI.pdb
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\PhoneGuide.WebUI.dll.config
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\PhoneGuide.WebUI.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\PhoneGuide.WebUI.pdb
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\csc.exe
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\csc.exe.config
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\csc.rsp
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\csi.exe
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\csi.exe.config
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\csi.rsp
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Console.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\vbc.exe
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\vbc.rsp
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\PhoneGuide.WebUI.Entity.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\RestSharp.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Helpers.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Mvc.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Optimization.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Razor.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.WebPages.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\WebGrease.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\PhoneGuide.WebUI.Entity.pdb
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\RestSharp.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Helpers.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Mvc.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Optimization.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.Razor.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.WebPages.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\obj\Debug\PhoneGuide.WebUI.csprojAssemblyReference.cache
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\obj\Debug\PhoneGuide.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\obj\Debug\PhoneGuide.WebUI.csproj.CopyComplete
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\obj\Debug\PhoneGuide.WebUI.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI\obj\Debug\PhoneGuide.WebUI.pdb

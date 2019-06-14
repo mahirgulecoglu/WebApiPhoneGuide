@@ -1,0 +1,254 @@
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.API.dll.config
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.API.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.API.pdb
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.API.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\csc.exe
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\csc.exe.config
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\csc.rsp
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\csi.exe
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\csi.exe.config
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\csi.rsp
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.AppContext.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Console.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\vbc.exe
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\vbc.exe.config
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\vbc.rsp
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\Antlr3.Runtime.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\EntityFramework.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.Data.Edm.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.Data.OData.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\Newtonsoft.Json.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.Entity.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\Swashbuckle.Core.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Spatial.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Helpers.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Http.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Http.OData.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Mvc.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Optimization.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Razor.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.WebPages.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\WebActivatorEx.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\WebGrease.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.Entity.pdb
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.Entity.dll.config
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\EntityFramework.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.Data.Edm.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.Data.OData.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Spatial.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Http.OData.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\Newtonsoft.Json.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Helpers.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Http.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Mvc.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Optimization.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Razor.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.WebPages.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\Antlr3.Runtime.pdb
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\de\System.Spatial.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\es\System.Spatial.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\fr\System.Spatial.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\it\System.Spatial.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\ja\System.Spatial.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\ko\System.Spatial.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\ru\System.Spatial.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\obj\Debug\PhoneGuide.API.csprojAssemblyReference.cache
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\obj\Debug\PhoneGuide.API.csproj.CoreCompileInputs.cache
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\obj\Debug\PhoneGuide.API.csproj.CopyComplete
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\obj\Debug\PhoneGuide.API.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.API\PhoneGuide.API\obj\Debug\PhoneGuide.API.pdb
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.API.dll.config
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.API.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.API.pdb
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.API.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\csc.exe
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\csc.exe.config
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\csc.rsp
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\csi.exe
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\csi.exe.config
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\csi.rsp
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.AppContext.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Console.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.Claims.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\vbc.exe
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\vbc.exe.config
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\vbc.rsp
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\Antlr3.Runtime.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\EntityFramework.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\EntityFramework.SqlServer.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.Data.Edm.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.Data.OData.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\Newtonsoft.Json.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.Entity.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\Swashbuckle.Core.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Net.Http.Formatting.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Spatial.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Helpers.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Http.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Http.OData.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Http.WebHost.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Mvc.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Optimization.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Razor.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.WebPages.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\WebActivatorEx.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\WebGrease.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.Entity.pdb
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\PhoneGuide.Entity.dll.config
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\EntityFramework.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\EntityFramework.SqlServer.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.Data.Edm.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.Data.OData.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Spatial.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Http.OData.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\Newtonsoft.Json.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Net.Http.Formatting.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Helpers.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Http.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Http.WebHost.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Mvc.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Optimization.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.Razor.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.WebPages.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\Antlr3.Runtime.pdb
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\de\System.Spatial.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\es\System.Spatial.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\fr\System.Spatial.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\it\System.Spatial.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\ja\System.Spatial.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\ko\System.Spatial.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\ru\System.Spatial.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\obj\Debug\PhoneGuide.API.csprojAssemblyReference.cache
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\obj\Debug\PhoneGuide.API.csproj.CoreCompileInputs.cache
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\obj\Debug\PhoneGuide.API.csproj.CopyComplete
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\obj\Debug\PhoneGuide.API.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.API\PhoneGuide.API\obj\Debug\PhoneGuide.API.pdb

@@ -1,0 +1,26 @@
+﻿@using PhoneGuide.WebUI.Models
+@model PhoneGuide.WebUI.Models.PhoneAddModel
+@{
+    ViewBag.Title = "NewPhoneForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{ 
+
+    var CategoryList =(List<Categories>)Session["Category"];
+}
+
+<hr />
+@using (Html.BeginForm("AddPhone", "Phones", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(x => x.PhoneNumber)
+        @Html.TextBoxFor(x => x.PhoneNumber, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.Label("Category")
+        @Html.DropDownListFor(x=>x.CategoryID,new SelectList(CategoryList,"CategoryID","CategoryName"),new { @class = "form-control" })
+    </div>
+    @Html.HiddenFor(x=>x.PersonID)
+    <button class="btn btn-primary" type="submit">Kaydet</button>
+}
+

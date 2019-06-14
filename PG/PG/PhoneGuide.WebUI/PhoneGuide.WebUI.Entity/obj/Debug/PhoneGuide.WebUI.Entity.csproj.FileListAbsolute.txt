@@ -1,0 +1,10 @@
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI.Entity\bin\Debug\PhoneGuide.WebUI.Entity.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI.Entity\bin\Debug\PhoneGuide.WebUI.Entity.pdb
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI.Entity\obj\Debug\PhoneGuide.WebUI.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI.Entity\obj\Debug\PhoneGuide.WebUI.Entity.dll
+C:\Users\Mahir Güleçoğlu\Documents\Yazilim Projeler\PhoneGuide.WebUI\PhoneGuide.WebUI.Entity\obj\Debug\PhoneGuide.WebUI.Entity.pdb
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI.Entity\bin\Debug\PhoneGuide.WebUI.Entity.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI.Entity\bin\Debug\PhoneGuide.WebUI.Entity.pdb
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI.Entity\obj\Debug\PhoneGuide.WebUI.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI.Entity\obj\Debug\PhoneGuide.WebUI.Entity.dll
+C:\Users\mahir.gulecoglu\Downloads\PG\PG\PhoneGuide.WebUI\PhoneGuide.WebUI.Entity\obj\Debug\PhoneGuide.WebUI.Entity.pdb
